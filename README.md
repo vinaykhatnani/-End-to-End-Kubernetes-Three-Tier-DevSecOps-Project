@@ -254,11 +254,6 @@ Feel free to fork this repository and enhance the project. Contributions are wel
 
 ---
 
-## 📬 Contact
-
-For any queries or collaboration, feel free to connect.
-
----
 
 ## ⭐ If you found this helpful
 
